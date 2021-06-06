@@ -1,3 +1,4 @@
-Hopper Hawks
-The Lovelace Lynxs
-Turing's Tigers
+1.) Hopper Hawks
+2.) The Lovelace Lynxs
+3.) Turing's Tigers
+4.) Torvalds Tornados
